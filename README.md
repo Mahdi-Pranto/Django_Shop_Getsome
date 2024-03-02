@@ -1,1 +1,2 @@
-# An eccomerce shop 
+# An E-commerce shop 
+## Build with Django
